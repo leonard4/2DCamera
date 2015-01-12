@@ -1,7 +1,7 @@
 # Unity files/folders we don't need
-Library
-obj
-2DCamera_Data
+Library/
+obj/
+2DCamera_Data/
 2DCamera.exe
 2DCamera*.sln
 2DCamera*.suo
